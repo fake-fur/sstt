@@ -3,9 +3,9 @@ Stupidly Simple Time Tracker
 
  Really the title says it all
 
-This is just a ridiculously simple time tracker for my personal use written in Python talking to SQLite. I put the database file in an owncloud folder to sync it between my machines, again to keep it stupidly simple. Really, this is just a starting point for a solution to a problem I choose to solve for myself but feel free to use and improve if you care.
+This is just a ridiculously simple time tracker for my personal use written in Python talking to SQLite. I put the database file in an owncloud folder to sync it between my machines, again to keep it stupidly simple. It is meant to be very quick and easy to use from the command line.
 
-commands currently recognized:
+Commands currently recognized (more being added as I find a need):
 
 start {project}: 
 creates a project entry for {project} with now as start time
